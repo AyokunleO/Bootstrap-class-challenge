@@ -97,10 +97,42 @@ Ayokunle
     color: black;
 }
 
-/* .counter .line {
+.counter .line {
     border-left: 1px solid darkgrey;
 
-} */
+}
+
+.about {
+    padding: 12% 0 6% 0;
+}
+
+.about h4, p, li {
+    color: rgb(84, 81, 87);
+}
+.iter {
+    background-color: rgb(231, 225, 225);
+    padding: 5% 0;
+}
+ 
+.iter h5 {
+    color: rgb(84, 81, 87);
+}
+
+.rad {
+    border-radius: 100%;
+    background-color: skyblue;
+    width: 60px;
+    height: 60px;
+    padding: 30%;
+}
+
+.white-bg {
+    background-color: white;
+    padding: 20px 30px;
+    border-radius: 10px;
+}
+
+
 
 /* 
 Juwon
