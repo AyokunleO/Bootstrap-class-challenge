@@ -106,6 +106,9 @@ Ayokunle
 Juwon
 */
 
+
+
+
 .contact-box {
     padding-top: 10%;
 }
@@ -131,7 +134,72 @@ Juwon
 
 }
 
+/* About Page- Team Session */
 
+.team h4{
+    color: darkgray;
+}
+
+.team h1{
+    color: rgb(7, 32, 85);
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.team .img-fluid{
+    border-radius: 15px ;
+
+}
+.team span .fab{
+    color: darkgray;
+    font-size:15px;
+    padding: 5px;
+}
+.team .text-center  p{
+    font-size: 20px;
+    padding-top: 2px;
+    color: darkgray;
+}
+
+.team .text-center  h2{
+    font-size: 25px;
+    padding-top: 10px;
+    color: rgb(7, 32, 85);
+    
+}
+
+/* .team .fab{
+    color: darkgray;
+    width:5px;
+    padding:2px;
+} */
+
+
+.agency .our-offer{
+    width: auto;
+    height: 330px;
+}
+
+.agency .our-offer p{
+    font-size: 20px;
+    color: rgb(102, 90, 90);
+}
+
+.agency .our-offer .team-box{
+    padding-top: 15%;
+    
+    margin: 0;
+
+}
+
+.agency .our-offer button{
+    text-align: center;
+    font-size: 15px;
+    width: 170px;
+    height: 60px;
+
+
+}
 
 
 
